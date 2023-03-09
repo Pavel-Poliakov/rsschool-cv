@@ -1,1 +1,1 @@
-some text
+https://Pavel-Poliakov.github.io/rsschool-cv
